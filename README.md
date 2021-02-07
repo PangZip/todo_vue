@@ -1,24 +1,9 @@
-# todo
+Hello, this is first web application with vue.js.
 
-## Project setup
-```
-npm install
-```
+Subject is To do list with Vue.js
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+It is simple to use this application
+1. Please enter what you want to add to the list.
+2. You can delete anything you don't need through the Delete button.
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Thank you. 
